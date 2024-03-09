@@ -18,8 +18,9 @@ To run the chatbot, you need:
 5. To clone this repo.
 6. To open the file **ChatBotConferenceV2.oml**.
 7. To get an [OpenAI Key](https://platform.openai.com/api-keys).
-8. To modify the **Click events** (`SendOnClick` and `SendOnImgClick`) and set your **Open AI Key** on the **Server Action Property** `OpenAI_APIKey`.
-9. To publish and run the chatbot.
+8. To open the **Click events** (`SendOnClick` and `SendOnImgClick`).
+9. To modify the **Server Action Properties** (`OpenAI_PostChatCompletions` and `OpenAI_PostImgGenerations`) and replace the empty string ("") in the `OpenAI_APIKey` property with **your OpenAI key**.
+10. To publish and run the chatbot.
 
   [1]: https://i.stack.imgur.com/WyvSS.png
   [2]: https://i.stack.imgur.com/PEfhl.png
