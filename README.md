@@ -21,6 +21,10 @@ To run the chatbot, you need:
 8. To set your OpenAI Key in the variable: `OpenAI_Key`.
 9. To publish and run the chatbot.
 
+### Do you want to know how to use the OpenAI Wrapper API?
+
+Read the [Wiki](https://github.com/FANMixco/openai-outsystems-wrapper/wiki)
+
   [1]: https://i.stack.imgur.com/WyvSS.png
   [2]: https://i.stack.imgur.com/PEfhl.png
 
