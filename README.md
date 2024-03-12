@@ -2,24 +2,25 @@
 
 A simple chatbot powered by OutSystems and OpenAI for [Warsaw IT Days 2024](https://warszawskiedniinformatyki.pl)
 
-[![Preview][1]][1]
+[![Preview][1]](https://warszawskiedniinformatyki.pl)
 
 ## Chatbot preview
-[![chatbot preview][2]][2]
+[![chatbot preview][2]](https://www.outsystems.com/forge/component-overview/18160/openai-api-wrapper-o11)
 
 ### Instructions
 
 To run the chatbot, you need:
 
 1. To create an account in [OutSytems](https://www.outsystems.com/Platform/Signup).
-2. To get your **OutSystems Personal environment URL**. It is provided when you create your account.
+2. To get your [**OutSystems Personal Environment URL**](https://www.youtube.com/watch?v=w7KQLoAJXr0). It is provided when you create your account.
 3. To download and install the [OutSystems Service Studio](https://www.outsystems.com/Portal/ServiceStudioTutorial?IsFreeEdition=False&Uuid=4136fd4f-bb21-4778-9b0c-9bffdbddf13b&DevHostname=Tu4gYoDjVr%2fnVf78LyifGX%2f%2feRIC%2fmy5E%2fCz95N%2bRmsqLtYr0eHJ2TvqGYajIYTlldzsVWplWMKH7Tua4%2ftcqrxxtPDvRoPSpNgWv6eApR4dre07RC5LXlkM%2fo4HcIbf&OpenSS=True).
 4. To log in to your account when you start OutSystems Service Studio.
 5. To clone this repo.
 6. To open the file **ChatBotConferenceV2.oml**.
-7. To get an [OpenAI Key](https://platform.openai.com/api-keys).
-8. To set your OpenAI Key in the variable: `OpenAI_Key`.
-9. To publish and run the chatbot.
+7. To sign up on [OpenAI](https://platform.openai.com/signup/).
+8. To get your [**OpenAI Key**](https://platform.openai.com/api-keys).
+9. To set your OpenAI Key in the variable: `OpenAI_Key`.
+10. To publish and run the chatbot.
 
 ### Do you want to know how to use the OpenAI Wrapper API?
 
